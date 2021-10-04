@@ -1,2 +1,0 @@
-# Hangman-game
-Kodowanie rozpocząłem stosunkowo niedawno, mianowicie od początku bieżącego roku. Głównym powodem rozpoczęcia samodoskonalenia w tym obszarze są moje zainteresowania technologią czy też naprawy prostych układów elektroniki. Cheć zmiany dotychczasowego środowiska zainicjował okres pandemii podczas którego postanowiłem się samodoskonalić. Powyższą wypowiedź postaram się rozszerzyć w liscie motywacyjnym który dołączam do wiadomości e-mail.
